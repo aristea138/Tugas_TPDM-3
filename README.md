@@ -1,4 +1,4 @@
-10519101_Rubi Nurnajmi Kamal TPDM-3
+10519081_Aries Mulya Dinata TPDM-3
 # Deployment Model Regresi Linier
 
 ## Deskripsi singkat
